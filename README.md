@@ -1,0 +1,1 @@
+Aspect-oriented Programming in Python from Dr.-Ing. Mike Müller at Chemnitz Linux Tage - 2025
